@@ -1,2 +1,2 @@
-# sherumite-sublime-theme
-El Capitan inpired Sublime 3 theme
+# Sherumite SublimeTex 3 Theme
+Yosemite/El Capitan inpired Sublime Text 3 theme
