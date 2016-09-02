@@ -1,2 +1,6 @@
-# Sherumite SublimeTex 3 Theme
-Yosemite/El Capitan inpired Sublime Text 3 theme
+# Sherumite Theme
+
+OS X Yosemite & El Capitan light theme for Sublime Text 3.
+
+
+WIP...
