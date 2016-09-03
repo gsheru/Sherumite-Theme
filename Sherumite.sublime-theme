@@ -2,32 +2,37 @@
 //
 // FONTS
 //
-    { "class": "tab_label",              "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
-    { "class": "label_control",          "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
-    { "class": "tool_tip_label_control", "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
-    { "class": "sidebar_heading",        "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
-    { "class": "sidebar_label",          "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
+    // { "class": "tab_label",              "font.face": "Helvetica Neue", "settings": [ "!sherumite_font_default" ] },
+    // { "class": "label_control",          "font.face": "Helvetica Neue", "settings": [ "!sherumite_font_default" ] },
+    // { "class": "tool_tip_label_control", "font.face": "Helvetica Neue", "settings": [ "!sherumite_font_default" ] },
+    // { "class": "sidebar_heading",        "font.face": "Helvetica Neue", "settings": [ "!sherumite_font_default" ] },
+    // { "class": "sidebar_label",          "font.face": "Helvetica Neue", "settings": [ "!sherumite_font_default" ] },
 
     // Settings
-    { "class": "tab_label",              "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
-    { "class": "tab_label",              "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
-    { "class": "tab_label",              "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+    { "class": "tab_label",              "font.face": "Helvetica",         "settings": [ "sherumite_font_helvetica"      ] },
+    { "class": "tab_label",              "font.face": "Helvetica Neue",    "settings": [ "sherumite_font_helvetica_neue" ] },
+    { "class": "tab_label",              "font.face": "Fira Code Regular", "settings": [ "sherumite_font_fira_code"  ] },
+    { "class": "tab_label",              "font.face": "Ubuntu Mono",       "settings": [ "sherumite_font_ubuntu_mono"  ] },
 
-    { "class": "label_control",          "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
-    { "class": "label_control",          "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
-    { "class": "label_control",          "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+    { "class": "label_control",          "font.face": "Helvetica",         "settings": [ "sherumite_font_helvetica"      ] },
+    { "class": "label_control",          "font.face": "Helvetica Neue",    "settings": [ "sherumite_font_helvetica_neue" ] },
+    { "class": "label_control",          "font.face": "Fira Code Regular", "settings": [ "sherumite_font_fira_code"  ] },
+    { "class": "label_control",          "font.face": "Ubuntu Mono",       "settings": [ "sherumite_font_ubuntu_mono"  ] },
 
-    { "class": "tool_tip_label_control", "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
-    { "class": "tool_tip_label_control", "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
-    { "class": "tool_tip_label_control", "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+    { "class": "tool_tip_label_control", "font.face": "Helvetica",         "settings": [ "sherumite_font_helvetica"      ] },
+    { "class": "tool_tip_label_control", "font.face": "Helvetica Neue",    "settings": [ "sherumite_font_helvetica_neue" ] },
+    { "class": "tool_tip_label_control", "font.face": "Fira Code Regular", "settings": [ "sherumite_font_fira_code"  ] },
+    { "class": "tool_tip_label_control", "font.face": "Ubuntu Mono",       "settings": [ "sherumite_font_ubuntu_mono"  ] },
 
-    { "class": "sidebar_heading",        "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
-    { "class": "sidebar_heading",        "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
-    { "class": "sidebar_heading",        "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+    { "class": "sidebar_heading",        "font.face": "Helvetica",         "settings": [ "sherumite_font_helvetica"      ] },
+    { "class": "sidebar_heading",        "font.face": "Helvetica Neue",    "settings": [ "sherumite_font_helvetica_neue" ] },
+    { "class": "sidebar_heading",        "font.face": "Fira Code Regular", "settings": [ "sherumite_font_fira_code"  ] },
+    { "class": "sidebar_heading",        "font.face": "Ubuntu Mono",       "settings": [ "sherumite_font_ubuntu_mono"  ] },
 
-    { "class": "sidebar_label",          "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
-    { "class": "sidebar_label",          "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
-    { "class": "sidebar_label",          "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+    { "class": "sidebar_label",          "font.face": "Helvetica",         "settings": [ "sherumite_font_helvetica"      ] },
+    { "class": "sidebar_label",          "font.face": "Helvetica Neue",    "settings": [ "sherumite_font_helvetica_neue" ] },
+    { "class": "sidebar_label",          "font.face": "Fira Code Regular", "settings": [ "sherumite_font_fira_code"  ] },
+    { "class": "sidebar_label",          "font.face": "Ubuntu Mono",       "settings": [ "sherumite_font_ubuntu_mono"  ] },
 
 //
 // TABS (REGULAR)
@@ -36,7 +41,6 @@
     // Tab set
     {
         "class": "tabset_control",
-        // "layer0.texture": "Theme - Sherumite/Assets/tabset-background.png",
         "layer0.tint": [230, 230, 230],
         "layer0.inner_margin": [1, 7],
         "layer0.opacity": 1.0,
@@ -63,7 +67,6 @@
         "content_margin": [12, 0, 12, 0],
         "max_margin_trim": 0,
         "hit_test_level": 0.0,
-        // "layer0.texture": "Theme - Sherumite/Assets/tab-inactive.png",
         "layer0.tint": [230, 230, 230],
         "layer0.opacity": 1.0
     },
@@ -78,14 +81,12 @@
         "class": "tab_control",
         "attributes": ["hover"],
         "layer0.tint": [240, 240, 240]
-        // "layer0.texture": "Theme - Sherumite/Assets/tab-hover.png"
     },
     // Tab active state
     {
         "class": "tab_control",
         "attributes": ["selected"],
         "layer0.tint": [255, 255, 255]
-        // "layer0.texture": "Theme - Sherumite/Assets/tab-active.png"
     },
 
 
@@ -97,7 +98,7 @@
     {
         "class": "tab_close_button",
         "content_margin": [8, 8],
-        "layer0.texture": "Theme - Sherumite/Assets/tab-close.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/tab-close.png",
         "layer0.opacity": 0.0,
         "layer0.inner_margin": 0
     },
@@ -110,14 +111,14 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
-        "layer0.texture": "Theme - Sherumite/Assets/tab-dirty.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/tab-dirty.png",
         "layer0.opacity": 0.9
     },
     // Tab close button hover
     {
         "class": "tab_close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - Sherumite/Assets/tab-close-hover.png"
+        "layer0.texture": "./Theme - Sherumite/Assets/tab-close-hover.png"
     },
     // Tab close button pressed
     {
@@ -136,7 +137,6 @@
         "fg": [120, 120, 120],
         "shadow_color": [255, 255, 255],
         "shadow_offset": [0, 0],
-        // "font.face": "Helvetica Neue",
         "font.size": 12,
         "font.bold": true,
         "font.italic": false
@@ -168,7 +168,7 @@
     {
         "class": "show_tabs_dropdown_button",
         "content_margin": [9, 7, 8, 6],
-        "layer0.texture": "Theme - Sherumite/Assets/tabset-list.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/tabset-list.png",
         "layer0.opacity": 0.5,
         "layer0.inner_margin": 0
     },
@@ -181,7 +181,7 @@
     {
         "class": "scroll_tabs_left_button",
         "content_margin": [9, 6, 8, 7],
-        "layer0.texture": "Theme - Sherumite/Assets/tabset-left.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/tabset-left.png",
         "layer0.opacity": 0.5,
         "layer0.inner_margin": 0
     },
@@ -194,7 +194,7 @@
     {
         "class": "scroll_tabs_right_button",
         "content_margin": [9, 7, 8, 6],
-        "layer0.texture": "Theme - Sherumite/Assets/tabset-right.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/tabset-right.png",
         "layer0.opacity": 0.5,
         "layer0.inner_margin": 0
     },
@@ -210,7 +210,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - Sherumite/Assets/fold-closed.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/fold-closed.png",
         "layer0.inner_margin": 0,
         "content_margin": [8, 8],
         "layer0.opacity": 1.0
@@ -218,7 +218,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Sherumite/Assets/fold-open.png"
+        "layer0.texture": "./Theme - Sherumite/Assets/fold-open.png"
     },
 
 //
@@ -228,7 +228,7 @@
     // Standard vertical scroll bar
     {
         "class": "scroll_bar_control",
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/standard-scrollbar-vertical.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/standard-scrollbar-vertical.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [2, 6],
         "blur": false
@@ -237,21 +237,21 @@
     {
         "class": "scroll_bar_control",
         "attributes": ["horizontal"],
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/standard-scrollbar-horizontal.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/standard-scrollbar-horizontal.png",
         "layer0.inner_margin": [6, 2],
         "blur": false
     },
     // Standard scroll bar corner
     {
         "class": "scroll_corner_control",
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/standard-scrollbar-corner.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/standard-scrollbar-corner.png",
         "layer0.inner_margin": [2, 2],
         "layer0.opacity": 1.0
     },
     // Standard vertical scroll puck
     {
         "class": "puck_control",
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/standard-puck-vertical.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/standard-puck-vertical.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [0, 10],
         "content_margin": [8, 12],
@@ -261,7 +261,7 @@
     {
         "class": "puck_control",
         "attributes": ["horizontal"],
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/standard-puck-horizontal.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/standard-puck-horizontal.png",
         "layer0.inner_margin": [10, 0],
         "content_margin": [12, 8],
         "blur": false
@@ -286,7 +286,7 @@
     {
         "class": "scroll_bar_control",
         "settings": ["overlay_scroll_bars"],
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/overlay-scrollbar-vertical.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/overlay-scrollbar-vertical.png",
         "layer0.inner_margin": [0, 5],
         "blur": true
     },
@@ -295,7 +295,7 @@
         "class": "scroll_bar_control",
         "settings": ["overlay_scroll_bars"],
         "attributes": ["horizontal"],
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/overlay-scrollbar-horizontal.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/overlay-scrollbar-horizontal.png",
         "layer0.inner_margin": [5, 0],
         "blur": true
     },
@@ -303,7 +303,7 @@
     {
         "class": "puck_control",
         "settings": ["overlay_scroll_bars"],
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/overlay-puck-vertical.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/overlay-puck-vertical.png",
         "layer0.inner_margin": [0, 5],
         "content_margin": [5, 20],
         "blur": true
@@ -313,7 +313,7 @@
         "class": "puck_control",
         "settings": ["overlay_scroll_bars"],
         "attributes": ["horizontal"],
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/overlay-puck-horizontal.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/overlay-puck-horizontal.png",
         "layer0.inner_margin": [5, 0],
         "content_margin": [20, 5],
         "blur": true
@@ -323,14 +323,14 @@
         "class": "puck_control",
         "settings": ["overlay_scroll_bars"],
         "attributes": ["dark"],
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/overlay-dark-puck-vertical.png"
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/overlay-dark-puck-vertical.png"
     },
     // Overlay light horizontal puck (for dark content)
     {
         "class": "puck_control",
         "settings": ["overlay_scroll_bars"],
         "attributes": ["horizontal", "dark"],
-        "layer0.texture": "Theme - Sherumite/Assets/scrollbar/overlay-dark-puck-horizontal.png"
+        "layer0.texture": "./Theme - Sherumite/Assets/scrollbar/overlay-dark-puck-horizontal.png"
     },
 
 //
@@ -409,8 +409,7 @@
     // General labels
     {
         "class": "label_control",
-        "color": [0, 0, 0],
-        "font.face": "Helvetica Neue"
+        "color": [0, 0, 0]
     },
     // Text field labels
     {
@@ -434,7 +433,7 @@
     // Tooltip container
     {
         "class": "tool_tip_control",
-        "layer0.texture": "Theme - Sherumite/Assets/tooltip.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/tooltip.png",
         "layer0.inner_margin": [1, 1],
         "layer0.opacity": 0.95,
         "content_margin": [3, 3]
@@ -442,8 +441,7 @@
     // Tooltip content
     {
         "class": "tool_tip_label_control",
-        "color": [0, 0, 0],
-        "font.face": "Helvetica Neue"
+        "color": [0, 0, 0]
     },
 
 //
@@ -453,7 +451,7 @@
     // Status bar container
     {
         "class": "status_bar",
-        "layer0.texture": "Theme - Sherumite/Assets/status-bar-background.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/status-bar-background.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [2, 2],
         "content_margin": [8, 4, 8, 4]
@@ -479,25 +477,25 @@
     // Sidebar container
     {
         "class": "sidebar_container",
-        "layer0.texture": "Theme - Sherumite/Assets/sidebar-bg.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/sidebar-bg.png",
         "layer0.opacity": 1.0,
-        "layer0.inner_margin": [1, 1, 2, 1],
-        "content_margin": [0, 0, 0, 0]
+        "layer0.inner_margin": [1,1,1,1],
+        "content_margin": [0, 8]
     },
     // Sidebar tree
     {
         "class": "sidebar_tree",
-        "row_padding": [8, 3],
-        "indent": 13,
+        "row_padding": [8, 4],
+        "indent": 12,
         "indent_offset": 13,
         "indent_top_level": false
     },
     // Sidebar rows
     {
         "class": "tree_row",
-        // "layer0.texture": "Theme - Sherumite/Assets/sidebar-row-selected.png",
+        // "layer0.texture": "./Theme - Sherumite/Assets/sidebar-row-selected.png",
         "layer0.tint": [30, 95, 180],
-        "layer0.opacity": 0.0,
+        "layer0.opacity": 0,
         "layer0.inner_margin": [1, 1]
     },
     // Sidebar row selected
@@ -526,8 +524,8 @@
         "color": [0, 0, 0],
         "shadow_color": [255, 255, 255],
         "shadow_offset": [0, 0],
-        "font.face": "Helvetica Neue",
         "font.bold": false,
+        "font.size": 12,
         "font.italic": false
     },
     // Sidebar folder entry
@@ -575,7 +573,7 @@
     // Sidebar file close
     {
         "class": "close_button",
-        "layer0.texture": "Theme - Sherumite/Assets/file-close.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/file-close.png",
         "layer0.inner_margin": 0,
         "layer0.tint": [ 0, 0, 0 ],
         "layer0.opacity": 0.0,
@@ -590,14 +588,14 @@
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - Sherumite/Assets/file-dirty.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/file-dirty.png",
         "layer0.opacity": 0.65
     },
     {
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "layer0.texture": "Theme - Sherumite/Assets/file-dirty.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/file-dirty.png",
         "layer0.tint": [ 255, 255, 255 ],
         "layer0.opacity": 1.0
     },
@@ -605,13 +603,13 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row", "attributes": ["hover"]}],
-        "layer0.texture": "Theme - Sherumite/Assets/file-close-hover.png"
+        "layer0.texture": "./Theme - Sherumite/Assets/file-close-hover.png"
     },
     // Sidebar file close hover
     {
         "class": "close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - Sherumite/Assets/file-close-hover.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/file-close-hover.png",
         "layer0.tint": [ 0, 0, 0 ],
         "layer0.opacity": 0.85
     },
@@ -630,7 +628,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [8, 8],
-        "layer0.texture": "Theme - Sherumite/Assets/group-closed.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/group-closed.png",
         "layer0.opacity": 0.42,
         "layer0.tint": [ 0, 0, 0 ],
         "layer0.inner_margin": 0
@@ -650,7 +648,7 @@
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Sherumite/Assets/group-open.png"
+        "layer0.texture": "./Theme - Sherumite/Assets/group-open.png"
     },
     {
         "class": "disclosure_button_control",
@@ -660,14 +658,14 @@
     // Sidebar folder closed
     {
         "class": "icon_folder",
-        "layer0.texture": "Theme - Sherumite/icons/folder.png",
+        "layer0.texture": "./Theme - Sherumite/icons/folder.png",
         "content_margin": [8, 8]
     },
     // Sidebar folder open
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["expanded"]}],
-        "layer0.texture": "Theme - Sherumite/icons/folder_opened.png"
+        "layer0.texture": "./Theme - Sherumite/icons/folder_opened.png"
     },
     // Sidebar folder loading
     {
@@ -676,14 +674,14 @@
         {
             "keyframes":
             [
-                "Theme - Sherumite/Assets/spinner/spinner7.png",
-                "Theme - Sherumite/Assets/spinner/spinner6.png",
-                "Theme - Sherumite/Assets/spinner/spinner5.png",
-                "Theme - Sherumite/Assets/spinner/spinner4.png",
-                "Theme - Sherumite/Assets/spinner/spinner3.png",
-                "Theme - Sherumite/Assets/spinner/spinner2.png",
-                "Theme - Sherumite/Assets/spinner/spinner1.png",
-                "Theme - Sherumite/Assets/spinner/spinner.png"
+                "./Theme - Sherumite/Assets/spinner/spinner7.png",
+                "./Theme - Sherumite/Assets/spinner/spinner6.png",
+                "./Theme - Sherumite/Assets/spinner/spinner5.png",
+                "./Theme - Sherumite/Assets/spinner/spinner4.png",
+                "./Theme - Sherumite/Assets/spinner/spinner3.png",
+                "./Theme - Sherumite/Assets/spinner/spinner2.png",
+                "./Theme - Sherumite/Assets/spinner/spinner1.png",
+                "./Theme - Sherumite/Assets/spinner/spinner.png"
             ],
             "loop": true,
             "frame_time": 0.075,
@@ -708,7 +706,7 @@
         "class": "button_control",
         "content_margin": [6, 5, 6, 6],
         "min_size": [75, 0],
-        "layer0.texture": "Theme - Sherumite/Assets/btn-small.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/btn-small.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [6, 6]
     },
@@ -716,7 +714,7 @@
     {
         "class": "button_control",
         "attributes": ["pressed"],
-        "layer0.texture": "Theme - Sherumite/Assets/btn-small-pressed.png"
+        "layer0.texture": "./Theme - Sherumite/Assets/btn-small-pressed.png"
     },
 
 //
@@ -726,7 +724,7 @@
     // Text input field item
     {
         "class": "text_line_control",
-        "layer0.texture": "Theme - Sherumite/Assets/text-field.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/text-field.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [8, 8, 8, 8],
         "content_margin": [3, 3, 6, 3]
@@ -736,7 +734,7 @@
     {
         "class": "dropdown_button_control",
         "content_margin": [8, 8],
-        "layer0.texture": "Theme - Sherumite/Assets/text-field-list.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/text-field-list.png",
         "layer0.opacity": 0.8,
         "layer0.inner_margin": [4, 4]
     },
@@ -753,7 +751,7 @@
     // Bottom panel background
     {
         "class": "panel_control",
-        "layer0.texture": "Theme - Sherumite/Assets/panel-background.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/panel-background.png",
         "layer0.inner_margin": [2, 2, 2, 2],
         "layer0.opacity": 1.0,
         "content_margin": [0, 0, 0, 0]
@@ -761,7 +759,7 @@
     // Quick panel background
     {
         "class": "overlay_control",
-        "layer0.texture": "Theme - Sherumite/Assets/quick-panel-background.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/quick-panel-background.png",
         "layer0.inner_margin": [10, 16, 10, 10],
         "layer0.opacity": 1.0,
         "content_margin": [4, 16, 4, 10 ]
@@ -781,7 +779,7 @@
     {
         "class": "text_line_control",
         "parents": [{"class": "overlay_control" }],
-        "layer0.texture": "Theme - Sherumite/Assets/quick-panel-text-field.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/quick-panel-text-field.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [18, 8, 18, 8],
         "content_margin": [16, 6, 16, 6]
@@ -789,14 +787,14 @@
 
     {
         "class": "quick_panel_row",
-        "layer0.texture": "Theme - Sherumite/Assets/quick-panel-row.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/quick-panel-row.png",
         "layer0.inner_margin": [2, 2, 2, 2],
         "layer0.opacity": 1.0
     },
     {
         "class": "quick_panel_row",
         "attributes": ["selected"],
-        "layer0.texture": "Theme - Sherumite/Assets/quick-panel-row-selected.png"
+        "layer0.texture": "./Theme - Sherumite/Assets/quick-panel-row-selected.png"
     },
     {
         "class": "quick_panel_label",
@@ -824,14 +822,14 @@
 
     {
         "class": "mini_quick_panel_row",
-        "layer0.texture": "Theme - Sherumite/Assets/quick-panel-row.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/quick-panel-row.png",
         "layer0.inner_margin": [2, 2, 2, 2],
         "layer0.opacity": 1.0
     },
     {
         "class": "mini_quick_panel_row",
         "attributes": ["selected"],
-        "layer0.texture": "Theme - Sherumite/Assets/quick-panel-row-selected.png"
+        "layer0.texture": "./Theme - Sherumite/Assets/quick-panel-row-selected.png"
     },
 
 //
@@ -857,7 +855,7 @@
     },
     {
         "class": "table_row",
-        "layer0.texture": "Theme - Sherumite/Assets/autocomplete-row-selected.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/autocomplete-row-selected.png",
         "layer0.opacity": 0.0,
         "layer0.inner_margin": [3, 1]
     },
@@ -874,7 +872,7 @@
     // Button group middle
     {
         "class": "icon_button_control",
-        "layer0.texture": "Theme - Sherumite/Assets/btn-group-middle.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/btn-group-middle.png",
         "layer0.inner_margin": [6, 6],
         "layer0.opacity": 1.0,
         "content_margin": [3, 3]
@@ -882,62 +880,62 @@
     {
         "class": "icon_button_control",
         "attributes": ["pressed"],
-        "layer0.texture": "Theme - Sherumite/Assets/btn-group-middle-pressed.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/btn-group-middle-pressed.png",
     },
     // Button group left
     {
         "class": "icon_button_control",
         "attributes": ["left"],
-        "layer0.texture": "Theme - Sherumite/Assets/btn-group-left.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/btn-group-left.png",
         "content_margin": [4, 3, 3, 3]
     },
     {
         "class": "icon_button_control",
         "attributes": ["left", "pressed"],
-        "layer0.texture": "Theme - Sherumite/Assets/btn-group-left-pressed.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/btn-group-left-pressed.png",
     },
     // Button group right
     {
         "class": "icon_button_control",
         "attributes": ["right"],
-        "layer0.texture": "Theme - Sherumite/Assets/btn-group-right.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/btn-group-right.png",
         "content_margin": [3, 3, 4, 3]
     },
     {
         "class": "icon_button_control",
         "attributes": ["right", "pressed"],
-        "layer0.texture": "Theme - Sherumite/Assets/btn-group-right-pressed.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/btn-group-right-pressed.png",
     },
     // Button single
     {
         "class": "icon_button_control",
         "attributes": ["left", "right"],
-        "layer0.texture": "Theme - Sherumite/Assets/btn-small.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/btn-small.png",
         "content_margin": [4, 3]
     },
     {
         "class": "icon_button_control",
         "attributes": ["left", "right", "pressed"],
-        "layer0.texture": "Theme - Sherumite/Assets/btn-small-pressed.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/btn-small-pressed.png",
     },
 
     // Panel close button
     {
         "class": "panel_close_button",
-        "layer0.texture": "Theme - Sherumite/Assets/panel-close.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/panel-close.png",
         "layer0.opacity": 0.5,
         "content_margin": [8, 12]
     },
     {
         "class": "panel_close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - Sherumite/Assets/panel-close-hover.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/panel-close-hover.png",
         "layer0.opacity": 0.5
     },
     {
         "class": "panel_close_button",
         "attributes": ["pressed"],
-        "layer0.texture": "Theme - Sherumite/Assets/panel-close-hover.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/panel-close-hover.png",
         "layer0.opacity": 1.0
     },
 
@@ -948,7 +946,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - Sherumite/Assets/icon-regex.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/icon-regex.png",
         "layer0.opacity": 1.0,
         "layer0.tint": [0, 0, 0],
         "content_margin": [9, 9]
@@ -961,7 +959,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - Sherumite/Assets/icon-case.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/icon-case.png",
         "layer0.opacity": 1.0,
         "layer0.tint": [0, 0, 0],
         "content_margin": [9, 9]
@@ -974,7 +972,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - Sherumite/Assets/icon-word.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/icon-word.png",
         "layer0.opacity": 1.0,
         "layer0.tint": [0, 0, 0],
         "content_margin": [9, 9]
@@ -992,7 +990,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - Sherumite/Assets/icon-context.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/icon-context.png",
         "layer0.opacity": 1.0,
         "layer0.tint": [0, 0, 0],
         "content_margin": [9, 9]
@@ -1005,7 +1003,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - Sherumite/Assets/icon-buffer.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/icon-buffer.png",
         "layer0.opacity": 1.0,
         "layer0.tint": [0, 0, 0],
         "content_margin": [9, 9]
@@ -1018,7 +1016,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - Sherumite/Assets/icon-wrap.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/icon-wrap.png",
         "layer0.opacity": 1.0,
         "layer0.tint": [0, 0, 0],
         "content_margin": [9, 9]
@@ -1031,7 +1029,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - Sherumite/Assets/icon-selection.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/icon-selection.png",
         "layer0.opacity": 1.0,
         "layer0.tint": [0, 0, 0],
         "content_margin": [9, 9]
@@ -1049,7 +1047,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - Sherumite/Assets/icon-preserve.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/icon-preserve.png",
         "layer0.opacity": 1.0,
         "layer0.tint": [0, 0, 0],
         "content_margin": [9, 9]
@@ -1067,7 +1065,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - Sherumite/Assets/icon-highlight.png",
+        "layer0.texture": "./Theme - Sherumite/Assets/icon-highlight.png",
         "layer0.opacity": 1.0,
         "layer0.tint": [0, 0, 0],
         "content_margin": [9, 9]
