@@ -674,6 +674,7 @@
         {
             "keyframes":
             [
+                "Sherumite-Theme/Assets/spinner/spinner8.png"
                 "Sherumite-Theme/Assets/spinner/spinner7.png",
                 "Sherumite-Theme/Assets/spinner/spinner6.png",
                 "Sherumite-Theme/Assets/spinner/spinner5.png",
@@ -681,7 +682,6 @@
                 "Sherumite-Theme/Assets/spinner/spinner3.png",
                 "Sherumite-Theme/Assets/spinner/spinner2.png",
                 "Sherumite-Theme/Assets/spinner/spinner1.png",
-                "Sherumite-Theme/Assets/spinner/spinner.png"
             ],
             "loop": true,
             "frame_time": 0.075,
