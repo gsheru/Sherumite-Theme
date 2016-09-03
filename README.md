@@ -9,5 +9,6 @@ Only for entertainment and practice purposes.
 
 Very WIP.
 
+![Screenshot](https://raw.githubusercontent.com/gsheru/Sherumite-Theme/master/screenshot.png)
 
 More information, changes and updates coming soon.
